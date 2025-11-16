@@ -1,0 +1,9 @@
+These coordinates point to a monument whose minaret was never completed:
+34.024096781972126, -6.822916603971116
+
+Look around the area carefully.
+You will find the resting place of someone who has no name but represents them all.
+
+Find the full name of this memorial and use it as the flag.
+Format:
+ADV{Xxxxx_xx_Xxxxxx_Xxxxxxx}
